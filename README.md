@@ -53,13 +53,13 @@ DELETE /api/employees/{id}
 ![GET API](screenshots/Screenshot%202026-07-16%20141017.png)
 
 ### Delete API
-![GET BY ID API](screenshots/Screenshot%202026-07-17%20115444.png)
+![Delete ID API](screenshots/Screenshot%202026-07-17%20115444.png)
 
 ### PUT API
 ![PUT API](screenshots/Screenshot%202026-07-16%20135652.png)
 
 ### Spring Boot Application Running 
-![DELETE API](screenshots/Screenshot%202026-07-17%20115708.png)
+![Application Running](screenshots/Screenshot%202026-07-17%20115708.png)
 
 ### Spring Boot Application Running
 ![Application Running](screenshots/Screenshot%202026-07-17%20115643.png)
