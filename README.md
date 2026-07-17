@@ -52,7 +52,7 @@ DELETE /api/employees/{id}
 ### GET API
 ![GET API](screenshots/Screenshot%202026-07-16%20141017.png)
 
-### GET BY ID API
+### Delete API
 ![GET BY ID API](screenshots/Screenshot%202026-07-17%20115444.png)
 
 ### PUT API
